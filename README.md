@@ -1,6 +1,3 @@
-![](https://github.com/jojobear2020/Mapping__Earthquakes/blob/main/images/tectonic_plates_meme02.jpg)
-
-
 Project creating an earthquake map using JavaScript, Leaflet and geoJSON data. 
 
 The final product is a earthquake map with three map styles:
@@ -15,3 +12,7 @@ The map also has three overlays:
 
 Access map via link below
 # [Mapping__Earthquakes](https://jojobear2020.github.io/Mapping__Earthquakes/)
+
+
+![](https://github.com/jojobear2020/Mapping__Earthquakes/blob/main/images/tectonic_plates_meme02.jpg)
+
