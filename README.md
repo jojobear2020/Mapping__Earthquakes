@@ -1,3 +1,4 @@
+![](https://github.com/jojobear2020/Mapping__Earthquakes/blob/main/images/tectonic_plates_meme02.jpg)
 
 
 Project creating an earthquake map using JavaScript, Leaflet and geoJSON data. 
