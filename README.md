@@ -12,4 +12,6 @@ The map also has three overlays:
 
 ### Access map by clicking the button below 
 
+
 [[!](https://github.com/jojobear2020/Mapping__Earthquakes/blob/main/images/planet_tectonic_plates.gif)](https://jojobear2020.github.io/Mapping__Earthquakes/)
+
