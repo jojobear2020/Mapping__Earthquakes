@@ -16,7 +16,5 @@ The map also has three overlays:
 ![(https://github.com/jojobear2020/Mapping__Earthquakes/blob/main/images/planet_tectonic_plates.gif)](https://jojobear2020.github.io/Mapping__Earthquakes/)
 
 ![Planet](https://github.com/jojobear2020/Mapping__Earthquakes/blob/main/images/planet_tectonic_plates.gif)
-[](https://jojobear)2020.github.io/Mapping__Earthquakes/)
 
 ![(https://jojobear)2020.github.io/Mapping__Earthquakes/)](https://github.com/jojobear2020/Mapping__Earthquakes/blob/main/images/planet_tectonic_plates.gif)
-[](https://jojobear)2020.github.io/Mapping__Earthquakes/)
