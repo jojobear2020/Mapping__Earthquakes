@@ -1,6 +1,6 @@
 Project creating an earthquake map using JavaScript, Leaflet and geoJSON data. 
 
-The final product is a earthquake map with three map styles:
+The final product is an earthquake map with three map styles:
 1. Street
 2. Satellite
 3. Dark
